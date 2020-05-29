@@ -75,9 +75,11 @@ layout: default
   </div>
 
   {% include facebook.html %}
+  
   {% if site.fbcomments %}
     <hr/>
-    <h4>Comments</h4>
+    <h4>Like/Comments</h4>
+    <div class="fb-like" data-href="https://www.pratheba.com{{ page.url }}" data-width="" data-layout="button_count" data-action="like" data-size="small" data-share="true"></div>
     <div class="fb-comments" data-href="https://www.pratheba.com{{ page.url }}" data-numposts="5" data-width=""></div>
   {% endif %}
 

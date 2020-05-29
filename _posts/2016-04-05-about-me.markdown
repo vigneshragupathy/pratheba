@@ -2,8 +2,9 @@
 layout: post
 title: About me
 date: '2016-04-05 12:08:00'
-image: content/images/2017/10/cover-3.jpg
+image: content/images/2017/10/cover.jpg
 ---
+
 
 கொஞ்சம் கவிதைக்காரி...
 
