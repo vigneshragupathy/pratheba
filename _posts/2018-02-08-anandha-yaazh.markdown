@@ -5,6 +5,7 @@ featured: true
 date: '2018-02-08 08:56:44'
 tags:
 - vazhkai-pathivugal
+- featured
 image: content/images/size/w2000/2018/02/upload-1518080126.jpg
 ---
 

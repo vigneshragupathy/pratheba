@@ -6,6 +6,7 @@ date: '2018-09-29 08:56:44'
 tags:
 - vazhkai-pathivugal
 - featured
+- sticky
 image: content/images/size/w2000/2018/09/20180415144807015007578.jpg
 ---
 

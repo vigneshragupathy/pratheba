@@ -5,6 +5,7 @@ featured: true
 date: '2020-02-22 08:56:44'
 tags:
 - vazhkai-pathivugal
+- featured
 image: content/images/size/w2000/2020/02/PicsArt_02-22-10.06.33.jpg
 ---
 
