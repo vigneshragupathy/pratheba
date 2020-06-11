@@ -1,33 +1,59 @@
-# Site Build Settings
+# Site
+name: "Pratheba's blog"
+description: 'என் பக்கம்..'
+logo: 'content/images/favicon/favicon-32x32.png'
+favicon: 'content/images/favicon/favicon.ico'
+#baseurl: '/mundana-theme-jekyll'
+disqus: 'pratheba'
+email: 'me@pratheba.com'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://mailchi.mp/dc91d8844e92/wwwprathebacom'
 
-url: "https://www.pratheba.com" # the base hostname & protocol for your site, e.g. http://example.com
-# jekyll-paginate configuration
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    pratheba:
+      name:           Pratheba
+      site:           https://www.pratheba.com
+      avatar:         assets/images/avatar3.jpg
+      bio:            "கொஞ்சம் கவிதைக்காரி, நிறைய கனவுக்காரி, தமிழைக் காதலிக்கும் ஒரு பொறியியல் பட்டதாரி"
+      email:          me@pratheba.com.com
+      twitter:        https://twitter.com/Pratheba_CV
+ 
+# Defaults
+defaults:
+
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: pratheba
+      avatar: assets/images/avatar3.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
 paginate: 10
 
-# Build settings
-markdown:            kramdown
-highlighter:         rouge
-permalink: :title/
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
-sass:
-  sass_dir: assets/css
-  style: :nested
 
-# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title: "Pratheba's blog"
-description: "என் பக்கம்.."
-tagline: "என் பக்கம்.."
-author: "Pratheba Chandramohan"
-website: https://www.pratheba.com
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules, backup]
 fbcomments: yes
-defaults:
-  - scope:
-      path: ""
-    values:
-      image: /assets/img/content/images/2017/10/cover.jpg
-

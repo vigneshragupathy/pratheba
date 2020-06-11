@@ -4,6 +4,7 @@ title: ரயில்பயண ஞாபகங்கள்…
 date: '2017-07-31 11:47:00'
 tags:
 - pratheba-kavithaigal
+- featured
 image: content/images/size/w1000/2017/10/rayil_payanam.jpg
 ---
 
