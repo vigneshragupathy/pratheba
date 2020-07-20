@@ -652,10 +652,20 @@ footer {
     margin-top:10px;
 }
 article {
-	font-size:20px;
+	font-size:16px;
+	/* font-family: 'Catamaran', sans-serif; */
+	font-family: 'Mukta Malar', sans-serif;
 	line-height:1.86;
-    font-family:Lora;
+    /* font-family:Lora; */
 }
+
+@media (min-width: 600px) {
+    article {
+		font-size:20px;
+		/* font-family: 'Catamaran', sans-serif; */
+		font-family: 'Mukta Malar', sans-serif;
+	}
+  }
 .article-headline {
     font-family: Georgia,Times,"Times New Roman",serif;
     font-size: 3.2rem;
@@ -664,7 +674,7 @@ article {
     color: #222222;
 }
 article p,article pre,article figure,article img,article blockquote,article iframed,article embed {
-	margin-bottom:2rem;
+	margin-bottom:1rem;
 }
 article blockquote {
 	padding-left:40px;
