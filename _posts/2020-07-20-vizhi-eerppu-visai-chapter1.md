@@ -5,6 +5,7 @@ featured: true
 date: '2020-07-20 05:00:00'
 tags:
 - featured
+- stories
 image: assets/images/chapter1.jpg
 ---
 
