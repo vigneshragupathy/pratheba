@@ -1,7 +1,7 @@
 ---
 layout: post
 title: விழி ஈர்ப்பு விசை - அத்தியாயம் 12
-date: '2020-08-06 04:00:00'
+date: '2020-08-06 01:00:00'
 tags:
 - stories
 image: assets/images/chapter12.jpg
