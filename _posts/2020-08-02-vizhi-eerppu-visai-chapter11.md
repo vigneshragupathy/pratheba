@@ -124,4 +124,4 @@ image: assets/images/chapter11.jpg
 
 தொடரும்….
 
-[அனைத்து அத்தியாயங்களும் படிக்க](https://www.pratheba.com/vizhi-eerppu-visai-chapter/)
+[அனைத்து அத்தியாயங்களும் படிக்க](https://www.pratheba.com/vizhi-eerppu-visai/)
