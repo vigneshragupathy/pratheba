@@ -17,3 +17,4 @@ image: content/images/2017/10/cover.jpg
 - [விழி ஈர்ப்பு விசை - அத்தியாயம் 9](https://www.pratheba.com/vizhi-eerppu-visai-chapter9/)
 - [விழி ஈர்ப்பு விசை - அத்தியாயம் 10](https://www.pratheba.com/vizhi-eerppu-visai-chapter10/)
 - [விழி ஈர்ப்பு விசை - அத்தியாயம் 11](https://www.pratheba.com/vizhi-eerppu-visai-chapter11/)
+- [விழி ஈர்ப்பு விசை - அத்தியாயம் 12](https://www.pratheba.com/vizhi-eerppu-visai-chapter12/)
