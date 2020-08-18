@@ -22,3 +22,5 @@ image: content/images/2017/10/cover.jpg
 - [விழி ஈர்ப்பு விசை - அத்தியாயம் 14](https://www.pratheba.com/vizhi-eerppu-visai-chapter14/)
 - [விழி ஈர்ப்பு விசை - அத்தியாயம் 15](https://www.pratheba.com/vizhi-eerppu-visai-chapter15/)
 - [விழி ஈர்ப்பு விசை - அத்தியாயம் 16](https://www.pratheba.com/vizhi-eerppu-visai-chapter16/)
+- [விழி ஈர்ப்பு விசை - அத்தியாயம் 17](https://www.pratheba.com/vizhi-eerppu-visai-chapter17/)
+- [விழி ஈர்ப்பு விசை - அத்தியாயம் 18](https://www.pratheba.com/vizhi-eerppu-visai-chapter18/)
