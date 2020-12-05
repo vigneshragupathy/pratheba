@@ -13,12 +13,12 @@ include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
-  
+
 authors:
     pratheba:
       name:           Pratheba
@@ -27,7 +27,7 @@ authors:
       bio:            "கொஞ்சம் கவிதைக்காரி, நிறைய கனவுக்காரி, தமிழைக் காதலிக்கும் ஒரு பொறியியல் பட்டதாரி"
       email:          me@pratheba.com.com
       twitter:        https://twitter.com/Pratheba_CV
- 
+
 # Defaults
 defaults:
 
